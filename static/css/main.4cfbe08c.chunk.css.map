@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,YACE,UAAW,CACX,eAAgB,CAChB,YAAa,CACb,WAAY,CACZ,WACF","file":"main.4cfbe08c.chunk.css","sourcesContent":[".login-form{\n  width: 100%;\n  max-width: 330px;\n  padding: 15px;\n  margin: auto;\n  height: 100%;\n}"]}
